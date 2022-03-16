@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Spectre\\OneDrive\\Bureau\\28.02.2022\\class trainings\\class trainings\\class trainings.csproj": {}
+    "C:\\Users\\Spectre\\OneDrive\\Bureau\\class intro\\class trainings\\class trainings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Spectre\\OneDrive\\Bureau\\28.02.2022\\class trainings\\class trainings\\class trainings.csproj": {
+    "C:\\Users\\Spectre\\OneDrive\\Bureau\\class intro\\class trainings\\class trainings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Spectre\\OneDrive\\Bureau\\28.02.2022\\class trainings\\class trainings\\class trainings.csproj",
+        "projectUniqueName": "C:\\Users\\Spectre\\OneDrive\\Bureau\\class intro\\class trainings\\class trainings.csproj",
         "projectName": "class trainings",
-        "projectPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\28.02.2022\\class trainings\\class trainings\\class trainings.csproj",
+        "projectPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\class intro\\class trainings\\class trainings.csproj",
         "packagesPath": "C:\\Users\\Spectre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\28.02.2022\\class trainings\\class trainings\\obj\\",
+        "outputPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\class intro\\class trainings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
