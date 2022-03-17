@@ -1,0 +1,14 @@
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\bin\Debug\netcoreapp3.1\class practice.exe
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\bin\Debug\netcoreapp3.1\class practice.deps.json
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\bin\Debug\netcoreapp3.1\class practice.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\bin\Debug\netcoreapp3.1\class practice.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\bin\Debug\netcoreapp3.1\class practice.dll
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\bin\Debug\netcoreapp3.1\class practice.pdb
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.dll
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.pdb
+C:\Users\Spectre\OneDrive\Bureau\class method\class practice\class practice\obj\Debug\netcoreapp3.1\class practice.genruntimeconfig.cache
