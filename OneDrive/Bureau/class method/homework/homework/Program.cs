@@ -31,7 +31,7 @@ namespace homework
                 // phones[1].Storage = storage
             }
             Console.WriteLine("Properties of phones");
-            foreach (var item in products) ;
+            foreach (var item in products)
             {
                 //item.GetInfo();
             }
